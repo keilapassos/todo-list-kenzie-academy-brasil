@@ -1,0 +1,30 @@
+.divList {
+  border: 3px solid lightcoral;
+  list-style-position: none;
+  width: 500px;
+  font-size: 1.3rem;
+  text-align: left;
+}
+
+.insideList {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+li {
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid coral;
+}
+
+.ok {
+  margin-bottom: 5px;
+  height: 30px;
+  font-size: 0.9rem;
+  width: 110px;
+  border-radius: 10px;
+  background-color: rgb(240, 103, 103);
+  color: white;
+}
