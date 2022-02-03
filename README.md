@@ -1,2 +1,3 @@
 # todo-list-kenzie-academy-brasil
-Created with CodeSandbox
+
+### Você pode vizualizar este projeto pelo codesandbox: https://ozsi3.csb.app/
